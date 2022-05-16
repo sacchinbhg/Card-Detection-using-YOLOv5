@@ -8,4 +8,4 @@ This project detects the following cards using the YOLOv5 model:
 - Queen 
 - King
 
-Create a Folder named Card_Detection with the train and test folders and zip it to use the dataset in master branch.
+Create a zip folder named Card_Detection with the train and test folders in the master branch to use the dataset.
